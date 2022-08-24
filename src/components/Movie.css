@@ -1,0 +1,55 @@
+.movie {
+  height: 250px;
+  width: 20%;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.movie-img {
+  position: relative;
+  width: 100%;
+  height: 80%;
+}
+
+.movie-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.movie-body {
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0;
+}
+
+.action {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  border-radius: 60px;
+  background-color: black;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.overlay h3 {
+  transform: translate(0, 500%);
+  z-index: 1;
+}
+
+.overlay:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}

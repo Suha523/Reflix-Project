@@ -1,0 +1,38 @@
+.landing {
+  margin-top: 50px;
+}
+.landing h1 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: white;
+}
+.users-container {
+  display: flex;
+  justify-content: center;
+}
+
+.user {
+  display: flex;
+  height: 120px;
+  width: 20%;
+  margin: 10px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+}
+
+#orange {
+  background-color: orange;
+}

@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-container {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+  grid-template-areas: "li li li li li l";
+  padding: 20px;
+  height: 60px;
+  background-color: black;
+  color: white;
+}
+
+.nav-links {
+  grid-area: "li";
+  justify-self: start;
+  text-decoration: none;
+}
+
+.logo {
+  grid-area: "l";
+  justify-self: end;
+}
+
+.nav-item {
+  margin: 5px;
+  color: white;
+}

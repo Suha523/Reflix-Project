@@ -1,0 +1,26 @@
+h2 {
+  text-transform: capitalize;
+  color: white;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+.movies-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.rented {
+  padding: 10px;
+  border: 1px solid white;
+  margin: 20px;
+}
+
+.catalog {
+  padding: 10px;
+  border: 1px solid white;
+  margin: 20px;
+}
