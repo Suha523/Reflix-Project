@@ -1,5 +1,6 @@
 .landing {
   margin-top: 50px;
+  height: 100vh;
 }
 .landing h1 {
   text-transform: uppercase;
