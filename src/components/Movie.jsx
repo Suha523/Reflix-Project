@@ -18,7 +18,7 @@ export class Movie extends Component {
         <div className="movie-img">
           <img src={movie.img} alt=""></img>
           <div className="overlay">
-            <Link key={movie.id} to={`/movies/${movie.id}`}>
+            <Link key={movie.id} to={`/movies/${movie.id}`} className='link' >
               <h3>{movie.title}</h3>
             </Link>
           </div>

@@ -54,7 +54,6 @@ export class Catalog extends Component {
                     key={m.id}
                     movie={m}
                     changeRented={this.props.changeRented}
-                    budget={this.state.budget}
                     rent={this.rent}
                   />
                 ))}

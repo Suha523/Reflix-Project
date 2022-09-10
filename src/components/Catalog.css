@@ -11,16 +11,19 @@ h2 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding: 10px; 
 }
 
 .rented {
   padding: 10px;
   border: 1px solid white;
   margin: 20px;
+  height: 100%;
 }
 
 .catalog {
   padding: 10px;
   border: 1px solid white;
   margin: 20px;
+  height: 100%;
 }
