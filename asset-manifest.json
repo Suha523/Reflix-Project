@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8595e69.css",
-    "main.js": "/static/js/main.ad0b2a34.js",
-    "static/js/787.865a52f8.chunk.js": "/static/js/787.865a52f8.chunk.js",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.625dca125b58060788da.ttf",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
-    "index.html": "/index.html",
-    "main.c8595e69.css.map": "/static/css/main.c8595e69.css.map",
-    "main.ad0b2a34.js.map": "/static/js/main.ad0b2a34.js.map",
-    "787.865a52f8.chunk.js.map": "/static/js/787.865a52f8.chunk.js.map"
+    "main.css": "/Reflix-Project/static/css/main.8ac42b5a.css",
+    "main.js": "/Reflix-Project/static/js/main.edde21ba.js",
+    "static/js/787.865a52f8.chunk.js": "/Reflix-Project/static/js/787.865a52f8.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Reflix-Project/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/fa-brands-400.ttf": "/Reflix-Project/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/Reflix-Project/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/fa-brands-400.woff2": "/Reflix-Project/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/fa-regular-400.ttf": "/Reflix-Project/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/fa-regular-400.woff2": "/Reflix-Project/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Reflix-Project/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Reflix-Project/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "index.html": "/Reflix-Project/index.html",
+    "main.8ac42b5a.css.map": "/Reflix-Project/static/css/main.8ac42b5a.css.map",
+    "main.edde21ba.js.map": "/Reflix-Project/static/js/main.edde21ba.js.map",
+    "787.865a52f8.chunk.js.map": "/Reflix-Project/static/js/787.865a52f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8595e69.css",
-    "static/js/main.ad0b2a34.js"
+    "static/css/main.8ac42b5a.css",
+    "static/js/main.edde21ba.js"
   ]
 }
